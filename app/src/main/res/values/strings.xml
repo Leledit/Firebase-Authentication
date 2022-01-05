@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Ingressando no sistema</string>
+
+    <string name="app_titulo_in">Bem vindo ao app</string>
+    <string name="app_texto_in">Para acessar o app é necessario possuir uma conta.
+        caso nao posua uma conta click no botao "Cadastre-se" para efetuar o cadastro</string>
+    <string name="app_btn_login">Login</string>
+    <string name="app_btn_cadatro">Cadastre-se</string>
+    <string name="app_login_facebook">Continuar com o facebook</string>
+    <string name="app_facebook">Facebook</string>
+    <string name="app_login_email">Continuar com o E-mail</string>
+    <string name="app_email">E-mail</string>
+    <string name="app_login_google">Continuar com o Google</string>
+    <string name="app_google">Google</string>
+    <string name="app_cadastro">Cadastro</string>
+    <string name="app_cadastro_form">Cadastrando</string>
+    <string name="app_cadastro_form_info">Prencha as informações abaixo para realizar seu cadastro</string>
+    <string name="app_cadastro_form_nome">Nome:</string>
+    <string name="app_cadastro_form_nome_ins">Insira o seu nome</string>
+    <string name="app_cadastro_form_dataNacimento">Data de nacimento:</string>
+    <string name="app_cadastro_form_email">E-mail:</string>
+    <string name="app_cadastro_form_email_ins">Insira o seu E-mail</string>
+    <string name="app_cadastro_form_senha">Senha:</string>
+    <string name="app_cadastro_form_senha_ins">Insira a sua senha:</string>
+    <string name="app_cadastro_form_confSenha">Confirmar senha:</string>
+    <string name="app_cadastro_form_confSenha_ins">Insira a confirmação de sua senha:</string>
+    <string name="app_form_proximo">Proximo</string>
+    <string name="app_form_cadastrar">Cadastrar</string>
+
+
+    <!---
+    nota ! o "in" significa "inicial" ok
+    -->
+</resources>
